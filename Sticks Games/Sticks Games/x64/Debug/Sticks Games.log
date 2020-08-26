@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\artiqk\Desktop\Code\C\Sticks Games\Sticks Games\Sticks.h(48,12): warning C4013: 'time' non défini(e) ; extern retournant int pris par défaut
+C:\Users\artiqk\Desktop\Code\C\Sticks Games\Sticks Games\main.c(3,16): warning C4026: fonction déclarée avec une liste de paramètres formels
+  Sticks Games.vcxproj -> C:\Users\artiqk\Desktop\Code\C\Sticks Games\x64\Debug\Sticks Games.exe

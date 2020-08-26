@@ -1,0 +1,9 @@
+﻿  main.c
+C:\Users\artiqk\Desktop\Code\C\Sticks Games\Sticks Games\Sticks.h(37,12): warning C4013: 'time' non défini(e) ; extern retournant int pris par défaut
+C:\Users\artiqk\Desktop\Code\C\Sticks Games\Sticks Games\main.c(3,16): warning C4026: fonction déclarée avec une liste de paramètres formels
+  Génération de code en cours
+  4 of 9 functions (44.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  Sticks Games.vcxproj -> C:\Users\artiqk\Desktop\Code\C\Sticks Games\x64\Release\Sticks Games.exe
