@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\artiqk\Desktop\Code\C\Game of Life\Game of Life\GameOfLife.h(103,12): warning C4013: 'time' non défini(e) ; extern retournant int pris par défaut
+C:\Users\artiqk\Desktop\Code\C\Game of Life\Game of Life\main.c(23,1): warning C4026: fonction déclarée avec une liste de paramètres formels
+  Game of Life.vcxproj -> C:\Users\artiqk\Desktop\Code\C\Game of Life\x64\Debug\Game of Life.exe
